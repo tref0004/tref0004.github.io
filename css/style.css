@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Palanquin+Dark');
+
+body {
+  padding: 1rem;
+
+}
+
+#heading {
+  background-image: url(img/IMG_9677.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  padding: 2rem;
+  margin-bottom: rem;
+  margin-top: -2rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  position: relative;
+  color: white;
+
+
+}
+
+#IAM {
+  font-size: 1.5rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: .5rem;
+
+}
+
+#tref {
+  font-size: 6rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: -1rem;
+  margin-left: 0.5rem;
+}
+
+#IAMA {
+  font-size: 1.5rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+#webdev {
+  font-size: 6rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: -4rem;
+  margin-left: 0.5rem;
+
+}
+
+#Graphics {
+  font-size: 6rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.5rem;
+}
+
+#skills {
+  font-size: 1.5rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+#photog {
+  font-size: 6rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: -1rem;
+  margin-bottom: 11rem;
+  margin-left: 0.5rem;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.AboutMe {
+  text-align: right;
+  margin-left: 34rem;
+
+
+}
+
+#moreaboutme {
+  margin-top: 4rem;
+  font-size: 5rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#bio {
+  font-family: pragmatica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+
+
+}
+
+#portfolio {
+  font-size: 3rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#graphics {
+  font-size: 2rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#photo {
+  font-size: 2rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#web {
+  font-size: 2rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#me {
+  font-size: 2rem;
+  font-family: 'pragmatica', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
